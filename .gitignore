@@ -1,0 +1,5 @@
+/dist
+/input
+/output
+/node_modules
+*.traineddata
