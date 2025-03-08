@@ -1,5 +1,6 @@
 /dist
 /input
 /output
+/OCRpro
 /node_modules
 *.traineddata
